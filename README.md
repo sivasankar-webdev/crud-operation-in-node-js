@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-   <p>Theme 1 --> <i>http://localhost:5173/</i></p>
+   <p>Theme 1</p>
   <img
     width="1900"
     alt="EkoMart Homepage Preview"
@@ -33,7 +33,7 @@
 <br/>
 
   <div align="center">
-     <p>Theme 2 --> <i>http://localhost:5173/theme2/</i></p>
+     <p>Theme 2</p>
       <img
         width="1900"
         alt="Market Pro Homepage Preview"
@@ -44,7 +44,7 @@
 <br/>
 
   <div align="center">
-   <p>Theme 3 --> <i>http://localhost:5173/theme3/</i></p>
+   <p>Theme 3</p>
     <img
       width="1900"
       alt="Electro Homepage Preview"
