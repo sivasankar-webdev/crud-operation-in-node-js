@@ -1,37 +1,6 @@
 # 🛒 Multi-Theme E-Commerce Platform
 
 <div align="center">
- 1. Theme_1 --> http://localhost:5173/
-  <img
-    width="1900"
-    alt="EkoMart Homepage Preview"
-    src="https://github.com/user-attachments/assets/65feeff3-fac5-4d8a-a2d2-45b56adece2d"
-  />
-</div>
-
-<br/>
-
-  <div align="center">
-    1. Theme_2 --> http://localhost:5173/theme2/
-      <img
-        width="1900"
-        alt="Market Pro Homepage Preview"
-        src="https://github.com/user-attachments/assets/a79ed5b7-265e-49a2-bfd4-c2c03e73cea9"
-      />
-    </div>
-
-<br/>
-
-  <div align="center">
-  1. Theme_3 --> http://localhost:5173/theme3/
-    <img
-      width="1900"
-      alt="Electro Homepage Preview"
-      src="https://github.com/user-attachments/assets/fc49d8cf-fa7f-4f4f-b6c3-1b5083ec4b5d"
-    />
-  </div>
-
-<div align="center">
 
   <!-- Tech stack badges -->
   ![React](https://img.shields.io/badge/React-19.x-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A)
@@ -49,6 +18,39 @@
   ![Responsive](https://img.shields.io/badge/Responsive-Mobile--First-orange?style=flat-square)
 
 </div>
+
+---
+
+<div align="center">
+   <p>Theme 1. <i>Theme_1 --> http://localhost:5173/</i></p>
+  <img
+    width="1900"
+    alt="EkoMart Homepage Preview"
+    src="https://github.com/user-attachments/assets/65feeff3-fac5-4d8a-a2d2-45b56adece2d"
+  />
+</div>
+
+<br/>
+
+  <div align="center">
+     <p>Theme 2. <i>Theme_1 --> http://localhost:5173/theme2/</i></p>
+      <img
+        width="1900"
+        alt="Market Pro Homepage Preview"
+        src="https://github.com/user-attachments/assets/a79ed5b7-265e-49a2-bfd4-c2c03e73cea9"
+      />
+    </div>
+
+<br/>
+
+  <div align="center">
+   <p>Theme 3. <i>Theme_1 --> http://localhost:5173/theme3/</i></p>
+    <img
+      width="1900"
+      alt="Electro Homepage Preview"
+      src="https://github.com/user-attachments/assets/fc49d8cf-fa7f-4f4f-b6c3-1b5083ec4b5d"
+    />
+  </div>
 
 ---
 
