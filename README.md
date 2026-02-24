@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-   <p>Theme 1 <i>http://localhost:5173/</i></p>
+   <p>Theme 1 --> <i>http://localhost:5173/</i></p>
   <img
     width="1900"
     alt="EkoMart Homepage Preview"
