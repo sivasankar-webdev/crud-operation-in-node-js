@@ -211,10 +211,10 @@ ekomart/
 │   │   │   └── styles/   
 │   │   │   
 │   │   └── theme3/                 # Theme 3 — Teal (#1a6b7a), Open Sans font   
-│   │      ├── pages/     
-│   │      └── components/      
-│   │      └── Layout/     
-│   │      └── styles/    
+│   │       ├── pages/     
+│   │       └── components/      
+│   │       └── Layout/     
+│   │       └── styles/    
 │   │          
 │   ├── shared/                     # Shared utilities / components across themes       
 │   |       └── components/   
@@ -262,9 +262,9 @@ ekomart/
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
-| [React](https://react.dev/) | 18.x | UI component library |
-| [Vite](https://vitejs.dev/) | 5.x | Build tool & dev server |
-| [React Router DOM](https://reactrouter.com/) | 6.x | Client-side routing (no reload) |
+| [React](https://react.dev/) | 19.x | UI component library |
+| [Vite](https://vitejs.dev/) | 7.x | Build tool & dev server |
+| [React Router DOM](https://reactrouter.com/) | 7.x | Client-side routing (no reload) |
 
 ---
 
