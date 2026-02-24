@@ -56,7 +56,7 @@
 
 ## 📖 About
 
-**E-Kom** is a fully responsive, multi-theme e-commerce web application built with **React + Vite**. It features **three independent storefront themes** — each with its own design language, color palette, and component set — all running from a single codebase. Theme switching is handled entirely through the **URL route prefix**, requiring zero code changes.
+**Multi-Theme E-Commerce** is a fully responsive, multi-theme e-commerce web application built with **React + Vite**. It features **three independent storefront themes** — each with its own design language, color palette, and component set — all running from a single codebase. Theme switching is handled entirely through the **URL route prefix**, requiring zero code changes.
 
 ---
 
