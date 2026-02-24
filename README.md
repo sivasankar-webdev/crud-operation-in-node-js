@@ -200,61 +200,33 @@ ekomart/
 │   ├── themes/
 │   │   ├── theme1/                 # Theme 1 — Green (#629d23), Barlow font
 │   │   │   ├── pages/
-│   │   │   │   ├── HomePage.jsx
-│   │   │   │   ├── ShopPage.jsx
-│   │   │   │   ├── CartPage.jsx
-│   │   │   │   ├── WishlistPage.jsx
-│   │   │   │   ├── BlogPage.jsx
-│   │   │   │   ├── BlogDetail.jsx
-│   │   │   │   ├── VendorList.jsx
-│   │   │   │   ├── VendorDetail.jsx
-│   │   │   │   ├── ProductDetail.jsx
-│   │   │   │   └── ContactPage.jsx
-│   │   │   └── components/
-│   │   │       ├── Header.jsx
-│   │   │       ├── Footer.jsx
-│   │   │       ├── HeroBanner.jsx
-│   │   │       ├── DealBanners.jsx
-│   │   │       ├── FeaturedProducts.jsx
-│   │   │       ├── NewsletterBanner.jsx
-│   │   │       └── FeatureStrip.jsx
-│   │   │
-│   │   ├── theme2/                 # Theme 2 — Teal (#1a6b7a), Barlow font
-│   │   │   ├── pages/
-│   │   │   │   ├── HomePage.jsx
-│   │   │   │   ├── ShopPage.jsx
-│   │   │   │   ├── CartPage.jsx
-│   │   │   │   ├── WishlistPage.jsx
-│   │   │   │   ├── BlogPage.jsx
-│   │   │   │   ├── BlogDetail.jsx
-│   │   │   │   ├── VendorList.jsx
-│   │   │   │   ├── VendorDetail.jsx
-│   │   │   │   └── ProductDetail.jsx
-│   │   │   └── components/
-│   │   │       ├── Header.jsx
-│   │   │       ├── Footer.jsx
-│   │   │       ├── DealBanners.jsx
-│   │   │       ├── FeaturedProducts.jsx
-│   │   │       ├── NewsletterBanner.jsx
-│   │   │       ├── FeatureStrip.jsx
-│   │   │       └── ContactUs.jsx
-│   │   │
-│   │   └── theme3/                 # Theme 3 — Custom palette
-│   │       ├── pages/
-│   │       └── components/
-│   │
-│   ├── shared/                     # Shared utilities / components across themes
-│   │   └── components/
-│   │
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── index.html
-├── vite.config.js
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
-└── README.md
+│   │   │   └── components/  
+│   │   │   └── Layout/   
+│   │   │   └── styles/   
+│   │   │     
+│   │   │── theme2/                 # Theme 2 — Teal (#1a6b7a), Inter font     
+│   │   │   ├── pages/  
+│   │   │   └── components/    
+│   │   │   └── Layout/   
+│   │   │   └── styles/   
+│   │   │   
+│   │   └── theme3/                 # Theme 3 — Teal (#1a6b7a), Open Sans font   
+│   │      ├── pages/     
+│   │      └── components/      
+│   │      └── Layout/     
+│   │      └── styles/    
+│   │          
+│   ├── shared/                     # Shared utilities / components across themes       
+│   |       └── components/   
+│   |  
+│   ├── App.jsx                   
+│   └── main.jsx      
+│         
+├── index.html         
+├── vite.config.js         
+├── package.json         
+└── README.md         
+         
 ```
 
 ## 🎨 Themes Overview
