@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-   <p>Theme 1. <i>Theme_1 --> http://localhost:5173/</i></p>
+   <p>Theme 1 <i>http://localhost:5173/</i></p>
   <img
     width="1900"
     alt="EkoMart Homepage Preview"
@@ -33,7 +33,7 @@
 <br/>
 
   <div align="center">
-     <p>Theme 2. <i>Theme_1 --> http://localhost:5173/theme2/</i></p>
+     <p>Theme 2 <i>http://localhost:5173/theme2/</i></p>
       <img
         width="1900"
         alt="Market Pro Homepage Preview"
@@ -44,7 +44,7 @@
 <br/>
 
   <div align="center">
-   <p>Theme 3. <i>Theme_1 --> http://localhost:5173/theme3/</i></p>
+   <p>Theme 3 <i>http://localhost:5173/theme3/</i></p>
     <img
       width="1900"
       alt="Electro Homepage Preview"
@@ -76,7 +76,7 @@ Once you're on a theme, all inner pages follow the same prefix pattern:
 
 ```
 # Theme 1 (default)
-http://localhost:5173/                    → Home
+http://localhost:5173/                   → Home
 http://localhost:5173/shop               → Shop
 http://localhost:5173/cart               → Cart
 http://localhost:5173/wishlist           → Wishlist
